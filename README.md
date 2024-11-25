@@ -23,7 +23,6 @@ List the ready features here:
 ![Example screenshot](https://github.com/Gilson96/native-foods/blob/master/assets/projects_screenshots/Search.png)
 ![Example screenshot](https://github.com/Gilson96/native-foods/blob/master/assets/projects_screenshots/Order.png)
 ![Example screenshot](https://github.com/Gilson96/native-foods/blob/master/assets/projects_screenshots/DeliveryAnimation.png)
-![Example screenshot](https://github.com/Gilson96/react-movies/blob/master/src/assets/project_recommations.png)
 
 ## Setup
 1. Create a local directory on your machine

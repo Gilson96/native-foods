@@ -37,7 +37,7 @@ $ cd ~/your-directory-name-here
 4. Run the following code in your command line to clone the repo to your machine (you can change the app-name to what you desire):  
 
 ```shell 
-git clone git@github.com:deanssmart/the-gallery.git <app-name>
+git clone git@github.com:Gilson96/native-foods.git <app-name>
 ```
 5. Navigate to your new app directory (the app name you just picked):
 
